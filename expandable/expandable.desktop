@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=expandable
+Exec=qmlscene %U expandable/Main.qml
+Icon=expandable/expandable.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

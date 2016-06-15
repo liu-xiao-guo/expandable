@@ -1,0 +1,17 @@
+{
+    "name": "expandable.liu-xiao-guo",
+    "description": "description of expandable",
+    "architecture": "@CLICK_ARCH@",
+    "title": "expandable",
+    "hooks": {
+        "expandable": {
+            "apparmor": "expandable/expandable.apparmor",
+            "desktop":  "expandable/expandable.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
